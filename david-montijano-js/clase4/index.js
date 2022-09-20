@@ -53,7 +53,7 @@ switch(precioFinal){
 
 
 
-    function adicion(precio, porcentaje){
+/*     function adicion(precio, porcentaje){
         return precio + ((precio * porcentaje)/100)
     }
     for (let index = 0; index < 10; index++) {
@@ -61,4 +61,4 @@ switch(precioFinal){
         ,parseFloat(prompt("INGRESAR %")));
         alert(resultado);
 }
-
+ */

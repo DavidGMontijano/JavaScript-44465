@@ -10,11 +10,11 @@ alert(mensaje)
 } */
 
 
-let contraseña = prompt("Adivinanza: bonita flor, que gira buscando el sol (solo una palabra)");
+/* let contraseña = prompt("Adivinanza: bonita flor, que gira buscando el sol (solo una palabra)");
 
 while(contraseña != "girasol"){
     alert(`Ingresaste ${contraseña} contraseña incorrecta`);
     contraseña = prompt("Adivinanza: bonita flor, que gira buscando el sol (solo una palabra)");
 }
 
-alert("Contraseña correcta, Bienvenido.")
+alert("Contraseña correcta, Bienvenido.") */
